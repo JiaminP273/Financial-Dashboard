@@ -11,4 +11,3 @@ Data Integration: The backend connects to a MongoDB database to store and retrie
 
 Machine Learning Integration: The application incorporates machine learning algorithms and models to generate predictions and insights. These models analyze historical financial data and provide users with forecasts, trends, and suggestions for financial decision-making.
 
-User Authentication and Authorization: The app includes user authentication and authorization functionality. Users can create an account, log in, and securely access their financial data. The authorization system ensures that users can only view and manage their own information.
