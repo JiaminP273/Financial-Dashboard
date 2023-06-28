@@ -1,7 +1,6 @@
 MERN Finance Dashboard App
 
 This repository contains the code for a finance dashboard application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The app provides users with financial data and insights through visually appealing charts and predictions generated using machine learning algorithms.
-Features
 
 The MERN Finance Dashboard App offers the following features:
 
